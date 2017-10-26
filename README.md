@@ -38,3 +38,5 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 - vue-router，支持按需加载
 - vue-i18n，支持国际化
 - vuex，状态管理
+
+使用 standard 规范代码
